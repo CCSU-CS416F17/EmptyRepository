@@ -1,2 +1,1 @@
-# EmptyRepository
-Empty shell assignment template
+# Assignment shell
